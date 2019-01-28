@@ -5,5 +5,6 @@ welcome to the programming
 4.Python
 
 
-
+5.Oracle
+6.Mysql
 Thank You
